@@ -1,0 +1,1 @@
+// * add lazy loading for all the components 
